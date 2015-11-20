@@ -1,4 +1,4 @@
-crambit-agents
+crambit.github.io
 ==============
 
-Crambit Plugin Agents
+The main Crambit site
