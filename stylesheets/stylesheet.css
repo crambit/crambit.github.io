@@ -4,6 +4,10 @@ body {
     margin-top: 94px;
 }
 
+body:before {
+    content: url('../images/horus-glyph-blue.png');
+}
+
 header .social a {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
