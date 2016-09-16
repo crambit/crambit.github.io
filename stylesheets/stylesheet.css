@@ -4,7 +4,8 @@ body {
     margin-top: 94px;
 }
 
-body:before {
+body:after {
+    display: none;
     content: url('../images/horus-glyph-blue.png');
 }
 
