@@ -67,7 +67,8 @@ header h1 a {
     width: 100%;
     text-overflow: hidden;
     display: inline-block;
-    color: #fff
+    color: #fff;
+    display: none;
 }
 
 .horus-mark {
